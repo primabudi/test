@@ -13,6 +13,8 @@ func main() {
 		[]string{"-","-","-"},
 	}
 
+	a := 5
+	
 	board[0][0] = "X"
 	board[0][1] = "O"
 	board[0][2] = "O"
